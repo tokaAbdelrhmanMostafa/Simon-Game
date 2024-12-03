@@ -1,0 +1,46 @@
+body{
+  text-align: center;
+  background-color: #011F3F;
+  color:#FEF2BF;
+  font-size: larger;
+}
+.containr{
+  display: flex;
+ margin-left: 25rem;
+}
+
+.row{
+  display: inline;
+ 
+}
+.btn{
+  width: 10rem;
+  height: 10rem;
+  border: 10px solid white;
+  border-radius: 20%;
+ margin: 4rem;
+}
+.red{
+  background-color: red;
+}
+.green{
+  background-color: green;
+}
+.blue{
+  background-color: blue;
+}
+.yellow{
+  background-color: yellow;
+}
+.pressed{
+  
+  opacity: .5;
+
+}
+.game-over{
+  opacity: 0.8;background-color: red;
+
+}
+
+
+
